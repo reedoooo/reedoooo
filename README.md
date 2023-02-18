@@ -3,16 +3,15 @@
 ## About Me
 
 ```yaml
-* name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+* name: Reed Vogt
+located_in: Seattle, Wa
+current_job: Student at CodeFellows Academy
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-taught Stock Options Trader",
+    "GED and 2 Years and Willamette University",
   ]
-company: Soulber
 
 fields_of_interests:
   [
@@ -20,23 +19,26 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
     "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Robotics State Champion",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"] *
+currently_learning: ["React"]
+2022 Goals: ["Create 20+ Projects, 2 new coding languages and learn at least 5 new Technologies."]
+hobbies: ["Lifting Weights", "Robotics Projects", "Skateboarding", "Yu-Gi-Oh"] *
 ```
 
-I'm currently learning how to code with React Javascript at Code Fellows Academy.
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
+## Follow Me!
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
