@@ -30,6 +30,7 @@ currently_learning: ["React"]
 2022 Goals: ["Create 20+ Projects, 2 new coding languages and learn at least 5 new Technologies."]
 hobbies: ["Lifting Weights", "Robotics Projects", "Skateboarding", "Yu-Gi-Oh"] *
 ```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reedoooo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
