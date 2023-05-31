@@ -4,43 +4,68 @@
 
 ```yaml
 * name: Reed Vogt
-located_in: Seattle, Wa
-current_job: Student at CodeFellows Academy
-education:
+location: Seattle, WA
+current_position: Software Developer & Student at CodeFellows Academy
+education: 
   [
+    "Advanced Software Development in Full Stack JavaScript at CodeFellows Academy",
     "Self-Taught Developer and Designer",
-    "Self-taught Stock Options Trader",
-    "GED and 2 Years and Willamette University",
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Robotics State Champion",
+    "Self-Taught Stock Options Trader",
+    "2 Years Coursework in Psychology at Willamette University",
+    "General Education Diploma from Seattle Academy of Arts and Sciences"
   ]
   
-currently_learning: ["React"]
-2022 Goals: ["Create 20+ Projects, 2 new coding languages and learn at least 5 new Technologies."]
-hobbies: ["Lifting Weights", "Robotics Projects", "Skateboarding", "Yu-Gi-Oh"] *
+fields_of_interest:
+  [
+    "Full Stack Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX Design",
+    "DevOps",
+  ]
+
+technical_achievements:
+  [
+    "Robotics State Champion",
+    "Developed and deployed multiple web applications",
+    "Implemented a new inventory management system at Amazon, improving efficiency by over 50%"
+  ]
+  
+currently_enhancing_skills_in: ["React.js", "Node.js", "Machine Learning"]
+2023_goals: ["Create 20+ unique projects, learn 2 new programming languages and explore 5 new technologies."]
+hobbies: ["Weightlifting", "Robotics Projects", "Skateboarding", "Collecting and Trading Yu-Gi-Oh Cards"] 
+Languages: HTML, CSS, JavaScript, SQL
+Web Development: React.js, Express, Node.js, MongoDB, RESTful API Design, Responsive/Mobile Design
+UI/UX: Chakra UI, Invision, Wireframing, Prototyping, User Testing
+Security: Auth0, JWT, HTTPS/SSL, OAuth, OWASP Principles
+Tools: Visual Studio Code, Lucidchart
+Agile Methodologies: JIRA, Trello
+1. Portfolio (Mar 2023)
+2. ProTab (May 2023)
+3. City Explorer (Feb 2023)
+4. Can of Books (Feb 2023)
+5. Salmon Cookies (Jan 2023)
+6. Odd-Duck-Products (Jan 2023)
+Pagliacci Pizza, Cook, Seattle, WA (Feb 2022 - Nov 2022)
+Amazon Warehouse, Warehouse Associate, (Apr 2020 - Sep 2020)
+email: reedvogt1999@gmail.com
+phone: 206-915-8624
+LinkedIn
+Github *
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reedoooo&theme=tokyonight&hide_border=true&border_radius=13.4&card_width=400)](https://git.io/streak-stats)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" alt="Auth0" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+</p>
 
 ## Follow Me!
 
@@ -52,15 +77,4 @@ hobbies: ["Lifting Weights", "Robotics Projects", "Skateboarding", "Yu-Gi-Oh"] *
 
 <!-- Icon: https://devicon.dev/
 **reedoooo/reedoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
