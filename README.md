@@ -3,7 +3,8 @@
 ## About Me
 
 ```yaml
-* name: Reed Vogt
+*
+name: Reed Vogt
 location: Seattle, WA
 current_position: Software Developer & Student at CodeFellows Academy
 education:
@@ -27,7 +28,7 @@ technical_achievements:
     "Developed and deployed multiple frontend-focused web applications",
     "Significantly improved user interface and user experience for an inventory management system at Amazon"
   ]
-  
+
 currently_enhancing_skills_in: ["React.js", "JavaScript", "CSS"]
 2023_goals: ["Lead a frontend project, deepen expertise in React.js, and explore modern frontend technologies such as Next.js and Tailwind CSS"]
 hobbies: ["Weightlifting", "Robotics Projects", "Skateboarding", "Collecting and Trading Yu-Gi-Oh Cards"]
@@ -48,6 +49,11 @@ contact:
   phone: 206-915-8624
   LinkedIn: [Reed Vogt LinkedIn](https://www.linkedin.com/in/reed-vogt-student/)
   GitHub: [Reed Vogt GitHub](https://github.com/reedoooo)
+*
+```
+
+## Skills
+
 - **JavaScript**: Advanced proficiency in JavaScript for building interactive and dynamic client-side applications.
 - **HTML5 & CSS3**: Expertise in HTML5 and CSS3 for structuring and styling webpages with a focus on semantic elements and mobile-first design.
 - **React.js**: Skilled in using React.js to develop scalable and efficient user interfaces, with a focus on hooks and component-based architecture.
@@ -55,8 +61,9 @@ contact:
 - **UI/UX Tools**: Experienced with Chakra UI, Material UI for designing attractive and functional user interfaces.
 - **Security**: Competent in implementing web security protocols using Auth0, JWT, and OAuth.
 - **Tools**: Proficient with Visual Studio Code, Lucidchart, and Agile methodologies using JIRA and Trello to enhance project management and collaboration.
-*
-```
+
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reedoooo&theme=tokyonight&hide_border=true&border_radius=13.4&card_width=400)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
