@@ -62,8 +62,6 @@ contact:
 - **Security**: Competent in implementing web security protocols using Auth0, JWT, and OAuth.
 - **Tools**: Proficient with Visual Studio Code, Lucidchart, and Agile methodologies using JIRA and Trello to enhance project management and collaboration.
 
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reedoooo&theme=tokyonight&hide_border=true&border_radius=13.4&card_width=400)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
@@ -73,8 +71,6 @@ contact:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" alt="Auth0" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
 </p>
 
