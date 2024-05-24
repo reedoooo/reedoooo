@@ -6,7 +6,8 @@
 *
 name: Reed Vogt
 location: Seattle, WA
-current_position: Software Developer & Student at CodeFellows Academy
+current_position: Freelance Full Stack Developer
+bio: Seattle-based Full Stack Developer with a passion for AI technologies and a strong foundation in Web-Design. I leverage a robust background in Data Algorithms, database architecture and Material UI/UX design principles to deliver innovative, user-centric software. Expert in JavaScript, React.js, Node.js, and Material Design, my career reflects diverse projects and ongoing technical skill enhancement.
 education:
   [
     "Advanced Software Development in Full Stack JavaScript, CodeFellows Academy",
@@ -14,30 +15,19 @@ education:
     "Psychology Studies, Willamette University",
     "GED, Seattle Academy of Arts and Sciences"
   ]
-
 fields_of_interest:
   [
     "Full Stack Web Development",
     "Frontend Development",
-    "UI/UX Design"
+    "React JS",
+    "Material Design"
   ]
-
 technical_achievements:
   [
     "Robotics State Champion",
     "Developed and deployed multiple frontend-focused web applications",
-    "Significantly improved user interface and user experience for an inventory management system at Amazon"
   ]
-
 currently_enhancing_skills_in: ["React.js", "JavaScript", "CSS"]
-2023_goals: ["Lead a frontend project, deepen expertise in React.js, and explore modern frontend technologies such as Next.js and Tailwind CSS"]
-hobbies: ["Weightlifting", "Robotics Projects", "Skateboarding", "Collecting and Trading Yu-Gi-Oh Cards"]
-Languages: HTML, CSS, JavaScript, SQL
-Web Development: React.js, Node.js, MongoDB, RESTful API Design, Responsive/Mobile Design
-UI/UX: Chakra UI, Material UI, Invision, Wireframing, Prototyping, User Testing
-Security: Auth0, JWT, HTTPS/SSL, OAuth, OWASP Principles
-Tools: Visual Studio Code, Lucidchart
-Agile Methodologies: JIRA, Trello
 Portfolio Projects:
   - "Portfolio Site (Mar 2023)"
   - "Enhanced Card Store (Feb 2023)"
@@ -47,11 +37,10 @@ Previous Roles:
 contact:
   email: readvogt@gmail.com
   phone: 206-915-8624
-  LinkedIn: [Reed Vogt LinkedIn](https://www.linkedin.com/in/reed-vogt-student/)
+  LinkedIn: [Reed Vogt LinkedIn](https://www.linkedin.com/in/reed-vogt-fullstack-developer/)
   GitHub: [Reed Vogt GitHub](https://github.com/reedoooo)
 *
 ```
-
 ## Skills
 
 - **JavaScript**: Advanced proficiency in JavaScript for building interactive and dynamic client-side applications.
